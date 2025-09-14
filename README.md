@@ -14,3 +14,14 @@ Md. Esrafil Rahman
 ID: 2020-2-60-106
 East-West University, Dhaka, Bangladesh.
 
+Md. Solayman Tanvir (2022-1-60-355)
+Dept. of CSE, East West University
+Email: 2022-1-60-355@std.ewubd.edu
+
+Tahmina Ahmed (2022-2-60-151)
+Dept. of CSE, East West University
+Email: 2022-2-60-151@std.ewubd.edu
+
+Marjuk Ibna Belayet (2022-1-60-383)
+Dept. of CSE, East West University
+Email: 2022-1-60-383@std.ewubd.edu
