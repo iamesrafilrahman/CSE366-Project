@@ -9,7 +9,7 @@ This repository contains all the files that we worked on.
 ✅ License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-✍️ Author
+✍️ Authors
 Md. Esrafil Rahman (2020-2-60-106)
 Dept. of CSE, East West University
 Email: 2020-2-60-106@std.ewubd.edu
